@@ -1,0 +1,16 @@
+.Slate-root {
+    .Slate-editor {
+        min-height: 100px;
+        background-color: transparent !important;
+
+        p {
+            margin-bottom: 0;
+            font-family: cursive;
+        }
+
+        span {
+            font-family: Roboto sans-serif;
+            opacity: 1 !important;
+        }
+    }
+}
